@@ -1,0 +1,11 @@
+﻿largeur de la page : 700px
+
+bold du texte : 
+16px 
+Taille du texte globale sans-serif: 14px
+ Interlignage
+Couleur de fond : 
+#eee
+Couleur et épaisseur de trait sous le titre : 3px et #ccc
+Taille du titre : 180%
+Taille des sous-titre : 145%
